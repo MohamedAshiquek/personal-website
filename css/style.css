@@ -53,7 +53,9 @@ label {
 }
 
 img {
-	width: 100%;
+    width: 75%;
+    margin-left: 45px;
+    margin-bottom: 80px;
 }
 
 a:focus, a:hover {
@@ -170,7 +172,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 .about img {
     padding: 0.1em;
     border: 1px solid #ece4e4;
-	border-radius: 180px;
+	border-radius: 25px;
 }
 h4.modal-title {
     font-size: 2em;
